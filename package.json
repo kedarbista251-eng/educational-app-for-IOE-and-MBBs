@@ -1,4 +1,5 @@
 {
+  "homepage": "https://kedarbista251-eng.github.io/educational-app-for-IOE-and-MBBs/",
   "name": "edu-entrance-prep",
   "version": "0.1.0",
   "private": true,
@@ -21,3 +22,4 @@
     "@testing-library/jest-dom": "^6.0.0"
   }
 }
+
